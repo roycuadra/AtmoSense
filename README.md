@@ -30,3 +30,7 @@ AtmoSense is an Internet of Things (IoT) project that use a ESP8266 microcontrol
 - Upload the code to your ESP8266 using the Arduino IDE.
 - Open the Serial Monitor to view the connection status.
 - Once connected, the ESP8266 will start monitoring and sending data to your Blynk project.
+
+## License
+
+This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
